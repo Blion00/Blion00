@@ -742,12 +742,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpH6wcFWfl6-vPCZp1ld-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERoneToMany;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="fpH6wcFWfl6-vPCZp1ld-5" target="FsPps8ygUMYfurW_3Z1m-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="950" y="215" />
-              <mxPoint x="950" y="495" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
