@@ -157,6 +157,9 @@
         <mxCell id="OdKkpMeZ7IpjYvgaHoXA-4" value="Quản Lý Danh Mục Sản Phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="480" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OdKkpMeZ7IpjYvgaHoXA-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="OdKkpMeZ7IpjYvgaHoXA-5" target="hHHpHos3qXQZ88BaUu0H-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OdKkpMeZ7IpjYvgaHoXA-5" value="Quản Lý Bài Viết Quảng Cáo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="600" width="160" height="80" as="geometry" />
         </mxCell>
