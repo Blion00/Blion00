@@ -148,6 +148,9 @@
             <mxPoint x="1850" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OdKkpMeZ7IpjYvgaHoXA-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="OdKkpMeZ7IpjYvgaHoXA-3" target="hHHpHos3qXQZ88BaUu0H-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OdKkpMeZ7IpjYvgaHoXA-3" value="Quản Lý Sản Phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="360" width="160" height="80" as="geometry" />
         </mxCell>
