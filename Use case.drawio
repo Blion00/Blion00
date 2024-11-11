@@ -11,13 +11,16 @@
           <mxGeometry x="1490" y="420" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHpHos3qXQZ88BaUu0H-1" value="Thêm Giỏ Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHpHos3qXQZ88BaUu0H-2" value="Xem Chi Tiết Sản Phẩm&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHpHos3qXQZ88BaUu0H-3" value="Tìm Kiếm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hHHpHos3qXQZ88BaUu0H-4" value="Đăng Ký" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
