@@ -150,6 +150,9 @@
         <mxCell id="OdKkpMeZ7IpjYvgaHoXA-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Thêm,sửa và xóa&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1630" y="680" width="230" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="OdKkpMeZ7IpjYvgaHoXA-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=230.00000000000003;entryDy=60;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="OdKkpMeZ7IpjYvgaHoXA-1" target="OdKkpMeZ7IpjYvgaHoXA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
