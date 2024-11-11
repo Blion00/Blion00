@@ -121,6 +121,9 @@
         <mxCell id="OdKkpMeZ7IpjYvgaHoXA-3" value="Quản Lý Sản Phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1960" y="320" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OdKkpMeZ7IpjYvgaHoXA-4" value="Quản Lý Danh Mục Sản Phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
