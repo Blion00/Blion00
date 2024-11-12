@@ -211,6 +211,9 @@
         <mxCell id="qhDxRso9LNAH2FtVtD3s-1" value="Báo Cáo Thông Kê" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="720" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="qhDxRso9LNAH2FtVtD3s-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.768;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="qhDxRso9LNAH2FtVtD3s-1" target="hHHpHos3qXQZ88BaUu0H-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
