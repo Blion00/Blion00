@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="x4a_CrOOiANk78A3KvGd">
-    <mxGraphModel dx="1744" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1628" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,16 +160,17 @@
           <mxGeometry x="1730" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pyRZXPUVbA9_702f5Y_X-13" value="Xem sản phẩm bán chạy, khuyến mãi" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1107.5" y="650" width="160" height="70" as="geometry" />
+          <mxGeometry x="1130" y="570" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pyRZXPUVbA9_702f5Y_X-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.013;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" parent="1" target="pyRZXPUVbA9_702f5Y_X-13" edge="1">
+        <mxCell id="pyRZXPUVbA9_702f5Y_X-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;exitX=1.006;exitY=0.636;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="EuURe4UWY_9U8k-Uneeb-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="690" as="sourcePoint" />
+            <mxPoint x="1030" y="600" as="sourcePoint" />
+            <mxPoint x="1130" y="601" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pyRZXPUVbA9_702f5Y_X-34" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;shadow=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" parent="pyRZXPUVbA9_702f5Y_X-14" vertex="1" connectable="0">
           <mxGeometry x="-0.1423" y="2" relative="1" as="geometry">
-            <mxPoint x="9" y="-110" as="offset" />
+            <mxPoint x="2" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pyRZXPUVbA9_702f5Y_X-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.254;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="EuURe4UWY_9U8k-Uneeb-1" target="hHHpHos3qXQZ88BaUu0H-34" edge="1">
@@ -182,7 +183,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyRZXPUVbA9_702f5Y_X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.35;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" parent="1" target="hHHpHos3qXQZ88BaUu0H-34" edge="1">
+        <mxCell id="pyRZXPUVbA9_702f5Y_X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.35;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" parent="1" source="EuURe4UWY_9U8k-Uneeb-10" target="hHHpHos3qXQZ88BaUu0H-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010.0000000000002" y="780" as="sourcePoint" />
           </mxGeometry>
