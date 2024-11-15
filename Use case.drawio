@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="x4a_CrOOiANk78A3KvGd">
-    <mxGraphModel dx="1436" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1163" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hHHpHos3qXQZ88BaUu0H-1" value="Thêm Giỏ Hàng" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="415" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="385" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHpHos3qXQZ88BaUu0H-2" value="Xem Chi Tiết Sản Phẩm&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="520" width="120" height="60" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="890" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHpHos3qXQZ88BaUu0H-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Xem Giỏ Hàng&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="415" width="120" height="60" as="geometry" />
+          <mxGeometry x="1147.5" y="385" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hHHpHos3qXQZ88BaUu0H-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="hHHpHos3qXQZ88BaUu0H-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hHHpHos3qXQZ88BaUu0H-16" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="415" width="60" height="30" as="geometry" />
+          <mxGeometry x="1040" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hHHpHos3qXQZ88BaUu0H-19" value="Thêm,sửa,xóa trong giỏ hàng" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="495" width="110" height="85" as="geometry" />
@@ -183,7 +183,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d7ikZdi_8B4Jq4_9vl4C-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="850" width="1570" height="880" as="geometry" />
+          <mxGeometry x="3070" y="120" width="1570" height="880" as="geometry" />
         </mxCell>
         <mxCell id="d7ikZdi_8B4Jq4_9vl4C-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="d7ikZdi_8B4Jq4_9vl4C-7" target="hHHpHos3qXQZ88BaUu0H-34" edge="1">
           <mxGeometry relative="1" as="geometry">
