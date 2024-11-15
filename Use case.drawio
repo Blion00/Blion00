@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hHHpHos3qXQZ88BaUu0H-16" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="415" width="60" height="30" as="geometry" />
+          <mxGeometry x="1050" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hHHpHos3qXQZ88BaUu0H-34" value="Đăng Nhập" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="285" width="200" height="150" as="geometry" />
