@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="x4a_CrOOiANk78A3KvGd">
-    <mxGraphModel dx="2442" dy="5879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="904" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,7 +188,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d7ikZdi_8B4Jq4_9vl4C-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="730" y="-10" width="1570" height="880" as="geometry" />
+          <mxGeometry x="2820" y="130" width="1570" height="880" as="geometry" />
         </mxCell>
         <mxCell id="d7ikZdi_8B4Jq4_9vl4C-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="d7ikZdi_8B4Jq4_9vl4C-7" target="hHHpHos3qXQZ88BaUu0H-34" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -239,6 +239,14 @@
         </mxCell>
         <mxCell id="pyRZXPUVbA9_702f5Y_X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.35;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="pyRZXPUVbA9_702f5Y_X-18" target="hHHpHos3qXQZ88BaUu0H-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyRZXPUVbA9_702f5Y_X-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pyRZXPUVbA9_702f5Y_X-22" target="Nud_BQLuELYe_r3ZkEnG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyRZXPUVbA9_702f5Y_X-22" value="Xem Bài Viết" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
