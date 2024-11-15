@@ -121,7 +121,7 @@
         <mxCell id="OdKkpMeZ7IpjYvgaHoXA-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Thêm,sửa,ẩn và search&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1580" y="70" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qhDxRso9LNAH2FtVtD3s-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.009;exitY=0.458;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=classic;endFill=1;" parent="1" source="OdKkpMeZ7IpjYvgaHoXA-14" target="qhDxRso9LNAH2FtVtD3s-1" edge="1">
+        <mxCell id="qhDxRso9LNAH2FtVtD3s-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.009;exitY=0.458;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="OdKkpMeZ7IpjYvgaHoXA-14" target="qhDxRso9LNAH2FtVtD3s-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OdKkpMeZ7IpjYvgaHoXA-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Thêm,sửa và xóa&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
