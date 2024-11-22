@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FsPps8ygUMYfurW_3Z1m-86" value="User" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="-320" width="180" height="210" as="geometry" />
+          <mxGeometry x="470" y="-350" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FsPps8ygUMYfurW_3Z1m-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="FsPps8ygUMYfurW_3Z1m-86" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -848,7 +848,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yw746SONCj_cUNZbt6mW-1" value="Comment" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-355" width="180" height="180" as="geometry" />
+          <mxGeometry x="840" y="-385" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Yw746SONCj_cUNZbt6mW-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="Yw746SONCj_cUNZbt6mW-1" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
