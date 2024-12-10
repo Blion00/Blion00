@@ -751,7 +751,7 @@
             <mxPoint x="570" y="-97.59000000000017" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZyHPP-la-j6BIzWNhBD_-1" value="Hình Ảnh" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="ZyHPP-la-j6BIzWNhBD_-1" value="hinhanh" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-70" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ZyHPP-la-j6BIzWNhBD_-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ZyHPP-la-j6BIzWNhBD_-1">
