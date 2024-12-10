@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="x4a_CrOOiANk78A3KvGd">
-    <mxGraphModel dx="2220" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3053" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,12 +283,12 @@
         <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1670" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iKFPu-Q9ZNN0z63ZlJCo-11">
+        <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iKFPu-Q9ZNN0z63ZlJCo-11" target="iKFPu-Q9ZNN0z63ZlJCo-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2070" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iKFPu-Q9ZNN0z63ZlJCo-11">
+        <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.985;entryY=0.458;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="iKFPu-Q9ZNN0z63ZlJCo-11" target="iKFPu-Q9ZNN0z63ZlJCo-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2070" y="1550" as="targetPoint" />
           </mxGeometry>
@@ -503,22 +503,22 @@
           <mxGeometry x="1230" y="2020" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-54" value="Quản Lý Đơn Hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1843.2" y="1375" width="160" height="100" as="geometry" />
+          <mxGeometry x="1810" y="1370" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-55" value="Quản Lý Khách Hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1843.2" y="1495" width="160" height="100" as="geometry" />
+          <mxGeometry x="1810" y="1490" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-56" value="Quản Lý Sản Phẩm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1848.2" y="1625" width="150" height="100" as="geometry" />
+          <mxGeometry x="1815" y="1620" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-57" value="Quản Lý Danh Mục Sản Phẩm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1843.2" y="1735" width="160" height="100" as="geometry" />
+          <mxGeometry x="1810" y="1730" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-58" value="Quản Lý Bài Viết" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1843.2" y="1845" width="160" height="90" as="geometry" />
+          <mxGeometry x="1810" y="1840" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-59" value="Báo Cáo Thông Kê" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1843.2" y="1945" width="150" height="90" as="geometry" />
+          <mxGeometry x="1810" y="1940" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.027;entryY=0.304;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="iKFPu-Q9ZNN0z63ZlJCo-46" target="iKFPu-Q9ZNN0z63ZlJCo-16">
           <mxGeometry relative="1" as="geometry" />
@@ -528,14 +528,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-63" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="iKFPu-Q9ZNN0z63ZlJCo-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2350" y="1670" as="sourcePoint" />
-            <mxPoint x="2070" y="1780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iKFPu-Q9ZNN0z63ZlJCo-11" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="1645" width="30" height="60" as="geometry" />
+          <mxGeometry x="2100" y="1655" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
