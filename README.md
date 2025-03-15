@@ -58,8 +58,8 @@
 
 ### 📊 GitHub Stats:  
 <p align="left" display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blion00&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450px" height="350px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blion00&theme=tokyonight" alt="GitHub Streak" width="450px" height="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Blion00&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blion00&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
