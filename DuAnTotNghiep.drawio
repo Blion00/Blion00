@@ -109,7 +109,7 @@
             <mxPoint x="2000" y="839.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6gOHBqlI9W8kCxbK_Y7K-81" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Thay đổi trạng thái, ẩn và search&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6gOHBqlI9W8kCxbK_Y7K-81" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Thay đổi trạng thái bàn/ đơn hàng, ẩn và search&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="260" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6gOHBqlI9W8kCxbK_Y7K-82" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Thêm,sửa và xóa&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
