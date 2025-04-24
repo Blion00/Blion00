@@ -53,7 +53,7 @@
             <mxPoint x="2160" y="995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6gOHBqlI9W8kCxbK_Y7K-70" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="6gOHBqlI9W8kCxbK_Y7K-70" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="2420" y="755" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6gOHBqlI9W8kCxbK_Y7K-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
