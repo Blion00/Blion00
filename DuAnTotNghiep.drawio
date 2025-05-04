@@ -627,7 +627,7 @@
         <mxCell id="F-s9RGjDBPfYRDR3JauS-266" value="Quản Lý Thực Đơn" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2558" y="1904" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F-s9RGjDBPfYRDR3JauS-267" value="Quản Lý Món Ăn" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="F-s9RGjDBPfYRDR3JauS-267" value="Quản Lý Menu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2558" y="2142" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="F-s9RGjDBPfYRDR3JauS-268" value="Quản Lý Bài Viết" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
