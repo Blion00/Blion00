@@ -2423,6 +2423,9 @@
         <mxCell id="hSRsFfbEMNrW5wBIQzTI-2" value="Nên tạo thêm 1 hàng về trạng thái thanh toán (đã thanh toán, không cần thanh toán)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1320" y="-770" width="470" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hSRsFfbEMNrW5wBIQzTI-3" value="Thêm các hàng thông tin về thực đơn&amp;nbsp;&lt;div&gt;(tránh trường hợp sp đã bị xoá thì đơn hàng cũng mất sản phẩm)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1313" y="-745" width="370" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
