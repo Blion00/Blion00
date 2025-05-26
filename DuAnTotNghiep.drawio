@@ -2745,7 +2745,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BYBgz4BsJALl_CblvziF-34" value="voucher" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="-2770" width="320" height="440.00000000000045" as="geometry" />
+          <mxGeometry x="1190" y="-2790" width="320" height="440.00000000000045" as="geometry" />
         </mxCell>
         <mxCell id="BYBgz4BsJALl_CblvziF-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" parent="BYBgz4BsJALl_CblvziF-34" vertex="1">
           <mxGeometry y="30" width="320" height="50" as="geometry" />
@@ -2982,7 +2982,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BYBgz4BsJALl_CblvziF-124" value="post" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2020" y="-2818" width="320" height="420.00000000000045" as="geometry" />
+          <mxGeometry x="1680" y="-2770" width="320" height="420.00000000000045" as="geometry" />
         </mxCell>
         <mxCell id="BYBgz4BsJALl_CblvziF-125" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" parent="BYBgz4BsJALl_CblvziF-124" vertex="1">
           <mxGeometry y="30" width="320" height="50" as="geometry" />
