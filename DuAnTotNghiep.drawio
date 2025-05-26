@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Page-1" id="rp7l90gZu1hTliIZRfsK">
-    <mxGraphModel dx="1866" dy="5610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="758" dy="5059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2380,9 +2380,6 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="juf1XH3RNX4AqIn6u35n-698" value="trạng thái khi đã tạo đơn&amp;nbsp;&lt;div&gt;(đang hoạt động (1), đã thanh toán (2), Huỷ đơn (3),Hoàn thành (4))&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="-815" width="390" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="juf1XH3RNX4AqIn6u35n-699" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;startArrow=ERone;startFill=0;" parent="1" source="juf1XH3RNX4AqIn6u35n-15" target="juf1XH3RNX4AqIn6u35n-508" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -3144,8 +3141,8 @@
         <mxCell id="1zrCMhRXlFaD7m1DZ5QR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERone;startFill=0;" edge="1" parent="1" source="BYBgz4BsJALl_CblvziF-35" target="juf1XH3RNX4AqIn6u35n-674">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="-565" />
-              <mxPoint x="900" y="-1045" />
+              <mxPoint x="940" y="-565" />
+              <mxPoint x="940" y="-1045" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3169,8 +3166,8 @@
         <mxCell id="1zrCMhRXlFaD7m1DZ5QR-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="juf1XH3RNX4AqIn6u35n-504" target="1zrCMhRXlFaD7m1DZ5QR-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="920" y="-1095" />
-              <mxPoint x="920" y="-560" />
+              <mxPoint x="900" y="-1095" />
+              <mxPoint x="900" y="-560" />
             </Array>
           </mxGeometry>
         </mxCell>
