@@ -1303,7 +1303,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="juf1XH3RNX4AqIn6u35n-206" value="roles_have_permissions" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="-1980" width="300" height="90" as="geometry" />
+          <mxGeometry x="1390" y="-1980" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="juf1XH3RNX4AqIn6u35n-207" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" parent="juf1XH3RNX4AqIn6u35n-206" vertex="1">
           <mxGeometry y="30" width="300" height="30" as="geometry" />
