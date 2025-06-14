@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.3">
   <diagram name="Page-1" id="rp7l90gZu1hTliIZRfsK">
-    <mxGraphModel dx="992" dy="5183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="5384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,7 +294,7 @@
         <mxCell id="6gOHBqlI9W8kCxbK_Y7K-125" value="Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2420" y="435" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6gOHBqlI9W8kCxbK_Y7K-132" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Thay đổi trạng thái bàn , sắp xếp bàn ,xác nhận / từ chối đặt bàn và search&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="6gOHBqlI9W8kCxbK_Y7K-132" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Thay đổi trạng thái bàn , sắp xếp bàn ,đặt bàn và search, thay đổi trạng thái món ăn&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1700" y="220" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6gOHBqlI9W8kCxbK_Y7K-134" value="Quản&amp;nbsp; Lý Nhân Viên" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -485,13 +485,10 @@
         <mxCell id="F-s9RGjDBPfYRDR3JauS-281" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" parent="1" source="F-s9RGjDBPfYRDR3JauS-272" target="F-s9RGjDBPfYRDR3JauS-264" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F-s9RGjDBPfYRDR3JauS-282" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" parent="1" source="F-s9RGjDBPfYRDR3JauS-272" target="F-s9RGjDBPfYRDR3JauS-266" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="F-s9RGjDBPfYRDR3JauS-272" value="Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2940" y="1810" width="90" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="F-s9RGjDBPfYRDR3JauS-274" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Thay đổi trạng thái bàn , sắp xếp bàn ,xác nhận / từ chối đặt bàn và search&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="F-s9RGjDBPfYRDR3JauS-274" value="Thay đổi trạng thái bàn , sắp xếp bàn ,đặt bàn và search, thay đổi trạng thái món ăn" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2200" y="1750" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F-s9RGjDBPfYRDR3JauS-275" value="Quản&amp;nbsp; Lý Nhân Viên" style="ellipse;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -784,7 +781,7 @@
           <mxGeometry x="1440" y="2720" width="180" height="301" as="geometry" />
         </mxCell>
         <mxCell id="gKTkkbwLh9WNHCDuNB9i-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Use case Admin&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2740" y="1680" width="200" height="40" as="geometry" />
+          <mxGeometry x="2560" y="1690" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gKTkkbwLh9WNHCDuNB9i-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="gKTkkbwLh9WNHCDuNB9i-2" target="F-s9RGjDBPfYRDR3JauS-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
