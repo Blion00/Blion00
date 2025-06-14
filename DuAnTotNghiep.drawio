@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.3">
   <diagram name="Page-1" id="rp7l90gZu1hTliIZRfsK">
-    <mxGraphModel dx="1389" dy="5384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1895" dy="5639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -480,7 +480,7 @@
           <mxGeometry x="2558" y="2242" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="F-s9RGjDBPfYRDR3JauS-269" value="Báo Cáo Thông Kê" style="ellipse;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2558" y="2460" width="160" height="90" as="geometry" />
+          <mxGeometry x="2558" y="2570" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="F-s9RGjDBPfYRDR3JauS-281" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" parent="1" source="F-s9RGjDBPfYRDR3JauS-272" target="F-s9RGjDBPfYRDR3JauS-264" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -5306,6 +5306,17 @@
             <mxPoint x="905.3200000000002" y="-3759.99" as="sourcePoint" />
             <mxPoint x="1225" y="-3244.8100000000004" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tES1NUsFteTIktcKPAxy-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="tES1NUsFteTIktcKPAxy-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2940" y="2290.000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tES1NUsFteTIktcKPAxy-1" value="Quản&amp;nbsp; Lý Đơn Hàng" style="ellipse;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="2460" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tES1NUsFteTIktcKPAxy-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.797;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;startFill=0;dashed=1;endFill=1;" edge="1" parent="1" source="tES1NUsFteTIktcKPAxy-1" target="F-s9RGjDBPfYRDR3JauS-245">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
