@@ -19,11 +19,6 @@
         <mxCell id="__4Ybb_P2OVzTKweS7_B-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="F-s9RGjDBPfYRDR3JauS-140" target="F-s9RGjDBPfYRDR3JauS-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="__4Ybb_P2OVzTKweS7_B-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;entryX=0.993;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="__4Ybb_P2OVzTKweS7_B-1" target="F-s9RGjDBPfYRDR3JauS-114" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4560" y="-1471.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="__4Ybb_P2OVzTKweS7_B-113" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="F-s9RGjDBPfYRDR3JauS-140" edge="1" target="__4Ybb_P2OVzTKweS7_B-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3830" y="-1370" as="targetPoint" />
@@ -56,15 +51,12 @@
           <mxGeometry x="4638" y="-1782.5" width="180" height="301" as="geometry" />
         </mxCell>
         <mxCell id="__4Ybb_P2OVzTKweS7_B-52" value="" style="swimlane;startSize=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3740" y="-1990" width="820" height="808.5" as="geometry">
+          <mxGeometry x="3740" y="-1990" width="820" height="710" as="geometry">
             <mxRectangle x="550" y="1641.5" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F-s9RGjDBPfYRDR3JauS-128" value="Điền thông tin , chọn bàn, gửi mail xác nhận đơn hàng" style="shape=note;size=15;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="__4Ybb_P2OVzTKweS7_B-52" vertex="1">
           <mxGeometry x="240" y="120" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="F-s9RGjDBPfYRDR3JauS-114" value="Tìm Kiếm Món ăn" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="__4Ybb_P2OVzTKweS7_B-52" vertex="1">
-          <mxGeometry x="627" y="688.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F-s9RGjDBPfYRDR3JauS-110" value="Đặt bàn&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="__4Ybb_P2OVzTKweS7_B-52" vertex="1">
           <mxGeometry x="90" y="250" width="120" height="80" as="geometry" />
@@ -242,6 +234,14 @@
         </mxCell>
         <mxCell id="d-XuzX_Q3FscwDx5lGAR-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;include&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="__4Ybb_P2OVzTKweS7_B-75" vertex="1" connectable="0">
           <mxGeometry x="530" y="381.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WsSE5As2ahsrTmI3pr3V-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="__4Ybb_P2OVzTKweS7_B-75" source="WsSE5As2ahsrTmI3pr3V-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="251.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WsSE5As2ahsrTmI3pr3V-10" value="Tìm Kiếm Món ăn" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="__4Ybb_P2OVzTKweS7_B-75">
+          <mxGeometry x="50" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="__4Ybb_P2OVzTKweS7_B-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="__4Ybb_P2OVzTKweS7_B-76" target="__4Ybb_P2OVzTKweS7_B-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
