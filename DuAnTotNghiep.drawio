@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="rp7l90gZu1hTliIZRfsK">
-    <mxGraphModel dx="1097" dy="5236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1895" dy="5639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6353,7 +6353,10 @@
           <mxGeometry x="330" y="10" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WsSE5As2ahsrTmI3pr3V-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Thay đổi trang thái&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="VRFOq8jZHgCk2nSKMPH3-95">
-          <mxGeometry x="70" y="830" width="160" height="70" as="geometry" />
+          <mxGeometry x="70" y="930" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WsSE5As2ahsrTmI3pr3V-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Thay đổi trang thái và đặt lại các order đặt trước&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="VRFOq8jZHgCk2nSKMPH3-95">
+          <mxGeometry x="70" y="800" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VRFOq8jZHgCk2nSKMPH3-245" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" parent="1" source="VRFOq8jZHgCk2nSKMPH3-250" target="VRFOq8jZHgCk2nSKMPH3-267" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -6469,7 +6472,7 @@
         <mxCell id="VRFOq8jZHgCk2nSKMPH3-272" value="Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="5900" y="-1715" width="90" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="VRFOq8jZHgCk2nSKMPH3-273" value="Thay đổi trạng thái bàn , Order cho khách hàng, đặt bàn và search, thay đổi trạng thái món ăn" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="VRFOq8jZHgCk2nSKMPH3-273" value="Thay đổi trạng thái bàn , Order cho khách hàng, đặt bàn và search" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="5084" y="-1725" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VRFOq8jZHgCk2nSKMPH3-274" value="Quản&amp;nbsp; Lý Nhân Viên" style="ellipse;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -6527,7 +6530,7 @@
             <mxPoint x="5230" y="-920.0000000000009" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VRFOq8jZHgCk2nSKMPH3-287" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.999;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;startFill=0;" parent="1" source="VRFOq8jZHgCk2nSKMPH3-283" target="VRFOq8jZHgCk2nSKMPH3-280" edge="1">
+        <mxCell id="VRFOq8jZHgCk2nSKMPH3-287" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=160;entryDy=45;entryPerimeter=0;dashed=1;endArrow=none;startFill=0;" parent="1" source="VRFOq8jZHgCk2nSKMPH3-283" target="WsSE5As2ahsrTmI3pr3V-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VxFMhZrBtgIh-A3JqUYB-62" value="order_tables" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;swimlaneLine=1;" parent="1" vertex="1">
