@@ -8744,7 +8744,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLkEMXxFM1Mkozg1TgMp-774" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="6267" y="-1327" width="82" height="141" as="geometry" />
+          <mxGeometry x="6263" y="-1240" width="82" height="141" as="geometry" />
         </mxCell>
         <mxCell id="SLkEMXxFM1Mkozg1TgMp-775" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.008;exitY=0.436;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=1;entryX=0.887;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;startFill=0;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" parent="1" source="SLkEMXxFM1Mkozg1TgMp-786" target="SLkEMXxFM1Mkozg1TgMp-778" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -8852,7 +8852,7 @@
         <mxCell id="SLkEMXxFM1Mkozg1TgMp-798" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=160;exitDy=45;exitPerimeter=0;endArrow=none;startFill=0;dashed=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" parent="1" source="SLkEMXxFM1Mkozg1TgMp-762" target="SLkEMXxFM1Mkozg1TgMp-793" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLkEMXxFM1Mkozg1TgMp-799" value="" style="endArrow=block;html=1;rounded=0;endFill=0;" parent="1" edge="1">
+        <mxCell id="SLkEMXxFM1Mkozg1TgMp-799" value="" style="endArrow=block;html=1;rounded=0;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="SLkEMXxFM1Mkozg1TgMp-774">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6310" y="-1335" as="sourcePoint" />
             <mxPoint x="6310" y="-1595" as="targetPoint" />
