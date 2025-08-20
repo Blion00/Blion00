@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="rp7l90gZu1hTliIZRfsK">
-    <mxGraphModel dx="1303" dy="5340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2605" dy="5999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6201,7 +6201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SLkEMXxFM1Mkozg1TgMp-106" value="roles_have_permissions" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="6160" y="-3100" width="180" height="90" as="geometry" />
+          <mxGeometry x="6160" y="-3140" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SLkEMXxFM1Mkozg1TgMp-107" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" parent="SLkEMXxFM1Mkozg1TgMp-106" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -7789,7 +7789,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SLkEMXxFM1Mkozg1TgMp-558" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=ERone;endFill=0;startArrow=ERoneToMany;startFill=0;" parent="1" source="SLkEMXxFM1Mkozg1TgMp-522" edge="1">
+        <mxCell id="SLkEMXxFM1Mkozg1TgMp-558" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERone;endFill=0;startArrow=ERoneToMany;startFill=0;" parent="1" source="SLkEMXxFM1Mkozg1TgMp-526" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6123" y="-3412" as="targetPoint" />
             <Array as="points">
